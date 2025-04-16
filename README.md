@@ -5,3 +5,4 @@
 <a href="https://colab.research.google.com/drive/13st3JxVOjQRzkM7Wn8pYvXgcirLjAmw0?usp=sharing">HW3 Python 資料分析</a><br>
 
 <h2>專題</h2>
+<a href="https://www.youtube.com/watch?v=UVrOf2a0SDQ">第一次提案</a><br>
