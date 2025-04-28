@@ -8,3 +8,4 @@
 
 <h2>專題</h2>
 <a href="https://www.youtube.com/watch?v=UVrOf2a0SDQ">第一次提案</a><br>
+<a href="https://www.youtube.com/watch?v=yk18oE18kjY">第二次提案</a><br>
